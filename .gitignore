@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dataset
+drishti/
+data/
+
+# Checkpoints and Models
+checkpoints/
+yolo_runs/
+*.pth
+*.pt
+
+# Results and Visualization
+results/
+training_vis/
+training_vis_crop/
+aug_vis/
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+*.dll
+*.pyd
