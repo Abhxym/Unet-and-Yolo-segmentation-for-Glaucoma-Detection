@@ -35,3 +35,6 @@ Include/
 pyvenv.cfg
 *.dll
 *.pyd
+
+# Unwanted
+share/
